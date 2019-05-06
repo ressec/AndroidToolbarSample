@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Toolbar with menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_item_about">About</string>
+    <string name="label_description">"A simple activity integrating a toolbar with a menu. "</string>
+    <string name="label_description_title">Description:</string>
+    <string name="label_info_title">Information:</string>
+    <string name="label_info_content">1. Menu items have icons\n2. Toolbar layout is defined in its own xml template\n3. Toolbar layout is importable in any activity using a simple include statement</string>
+    <string name="label_guide_title">Steps:</string>
+    <string name="label_guide_content">1. Click the menu icon on the top right of the toolbar\n2. Click on any menu option (Add Contact, Settings or About us)\n3. By clicking on any menu option, a toast text appears on the bottom of the screen</string>
+</resources>
